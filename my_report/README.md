@@ -22,7 +22,10 @@
 
 ## Σχεδιασμός χαρακτήρα
 Ο σχεδιασμός του χαρακτήρα ήταν απλός, ένα κόκκινο μανιτάρι με κάποια ανθρώπινα χαρακτηριστικά (χέρια, πόδια, μάτια, μύτη, στόμα). Χρησιμοποίησα το Adobe Photoshop για την σχεδίαση του.
-![1](https://user-images.githubusercontent.com/116358629/208117186-ad501255-1c6f-41ad-9124-e891ad78a94d.png)
+![1](https://user-images.githubusercontent.com/116358629/211642926-edb89c9d-ba44-4c9b-9367-12e3d704e689.png)
+
+
+
 
 
 ## Σχεδιασμός χάρτη 
@@ -47,8 +50,9 @@
 Ακολουθόντας το tutorial πρόσθεσα RigidBody2D ώστε να μηδενίσω την βαρύτητα και να είναι γνωστό στο Physics System. Έπειτα πρόσθεσα Βox Collider 2D ώστε να μπορέσει ένα κομμάτι από κάθε στοιχείο μέσα στο παιχνίδι να είναι "στερεό". Για να μπορέσουν σαν σύνολο να λειτουργήσουν χρειάστηκε κώδικας τον οποίο ακολούθησα επακριβώς απο το tutorial.
 
 Τα colliders κάποιων στοιχείων του κόσμου μου: 
-![collidercharacter](https://user-images.githubusercontent.com/116358629/208122856-47647a40-3d3f-4d30-afc3-f71ebeb29ce2.png)
-![collidertree](https://user-images.githubusercontent.com/116358629/208122860-a595fd2a-9c6a-4104-a1d9-60dd2084cb19.png)
+![collidercharacter](https://user-images.githubusercontent.com/116358629/211643020-573febdf-577a-4967-9c8a-02855c1c143f.png)
+![collidertree](https://user-images.githubusercontent.com/116358629/211643042-bfb2bd2f-d285-465f-8551-c398e79d5279.png)
+
 
 ## Collectibles
 Ένα από τα αντικείμενα που υπάρχουν στην πίστα μου είναι το πράσινο φίλτρο (χ5). Ο χαρακτήρας θα μπορεί να τα συλλέξει μόνο όταν έχει χάσει κάποια ζωή, άλλιως μπορεί μόνο να περάσει απο πάνω τους χωρίς να συμβεί κάτι.
@@ -114,7 +118,8 @@ ser-images.githubusercontent.com/116358629/208144583-6ba5981a-a87b-40cd-84ba-c85
 Χρειάστηκε να δημιουργήσω ένα UI text και ένα νέο script. Τον νέο κώδικα -score- τον πρόσθεσα στον χαρακτήρα μου όπου εκεί στο inspector στο καινούριο script εμφανίστηκε ένα slot στο οποίο έβαλα το text που δημιούργησα πρίν.
 
 Ο κώδικας:
-![codescore](https://user-images.githubusercontent.com/116358629/208868141-0ffe2961-854c-4a2f-ac32-a8d5f9ecf7ce.png)
+![codescore](https://user-images.githubusercontent.com/116358629/211643242-86efa8dd-3f54-40a5-9d47-786626b70caa.png)
+
 
 
 ## Raycast 
@@ -156,8 +161,10 @@ ser-images.githubusercontent.com/116358629/208144583-6ba5981a-a87b-40cd-84ba-c85
 
 ## Menu
 Με βάση ένα βίντεο στο Youtube (ο σύνδεσμος υπάρχει στα sources) δημιούργησα το μενού, το οποίο σου δίνει την δυνατότητα, επιλέγοντας το level 1, να ξεκινήσεις το παιχνίδι. Περιέχει επίσης κουμπί για το Level 2, το οποίο ωστόσο δεν οδηγεί κάπου. Υπάρχει κουμπί με τα options το οποίο σε οδηγεί σε ένα άλλο μενού και εκεί μπορείς να δεις ποιές εντολές ανήκουν σε ποια πλήκτρα, καθώς επίσης έχεις και την δυνατότητα να πας πίσω στο αρχικό μενού.
-![μενου1](https://user-images.githubusercontent.com/116358629/208884199-abf49219-db27-4f47-8150-62b8cebe0553.png)
-![μενου2](https://user-images.githubusercontent.com/116358629/208884213-dabe1814-c158-4477-8241-4fbc5633df19.png)
+
+![menu_new](https://user-images.githubusercontent.com/116358629/211643357-78f47499-fe26-49e3-b676-b52e41038856.png)
+![menu_options_new](https://user-images.githubusercontent.com/116358629/211643367-aa237e92-093d-47f6-8e13-48aa0652ddd5.png)
+
 
 ##Build and run
 Στα build settings η WebGl ήταν επιλεγμένη. Επέλεξα το μενού και την κύρια σκηνή. Άλλαξα το publishing settings σε disabled και έκανα Build and Run. Έπειτα για το ανέβασμα στο Github ακολούθησα την διαδικασία που έχουμε δεί στο μάθημα
