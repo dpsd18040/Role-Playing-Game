@@ -118,7 +118,8 @@ ser-images.githubusercontent.com/116358629/208144583-6ba5981a-a87b-40cd-84ba-c85
 Χρειάστηκε να δημιουργήσω ένα UI text και ένα νέο script. Τον νέο κώδικα -score- τον πρόσθεσα στον χαρακτήρα μου όπου εκεί στο inspector στο καινούριο script εμφανίστηκε ένα slot στο οποίο έβαλα το text που δημιούργησα πρίν.
 
 Ο κώδικας:
-![codescore](https://user-images.githubusercontent.com/116358629/211643242-86efa8dd-3f54-40a5-9d47-786626b70caa.png)
+![score](https://user-images.githubusercontent.com/116358629/211821359-d779db38-70e6-47f4-9609-f56bfc58b112.png)
+
 
 
 
