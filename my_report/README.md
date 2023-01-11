@@ -156,6 +156,7 @@ ser-images.githubusercontent.com/116358629/208144583-6ba5981a-a87b-40cd-84ba-c85
 Έναν ήχο για τους εχθρούς, έτσι ώστε ο παίχτης πλησιάζει κάποιον απο αυτούς να μπορεί να τον ακούσει.
 
 Στον ispector του χαρακτήρα:
+
 ![11sound](https://user-images.githubusercontent.com/116358629/208881209-b642a5fe-abac-4aa3-bbb3-e4b1d8d47b57.png)
 
 Γενικά:
