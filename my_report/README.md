@@ -76,9 +76,10 @@
 Ο εχθρός έχει τη δυνατότητα να κινείται αριστερά και δεξιά, τα βήματα που ακολούθησα ήταν με βάση το tutorial.
 ### Character
 O χαρακτήρας έχει την δυνατότητα idle και moving. Στο idle υπάρχουν οι στατικές κινήσεις του απο όλες τις πλευρές (αριστερά, δεξιά, πάνω, κάτω) και στο moving οι κινήσεις στις οποίες περπατάει απο όλες τις πλευρές. Ενδεικτικά κάποια sprite sheets:
-![left](![standdown](https://user-images.githubusercontent.com/116358629/208144979-334200fe-f060-4505-adce-93a089f1c1fa.png)
-https://u![idleright](https://user-images.githubusercontent.com/116358629/208145062-e6120693-191b-4269-bfaa-82050326a463.png)
-ser-images.githubusercontent.com/116358629/208144583-6ba5981a-a87b-40cd-84ba-c857ab1f9241.png) 
+
+![left](https://user-images.githubusercontent.com/116358629/211822323-8c8b86b5-6e53-40e4-b2f0-db45b34c8c01.png)
+![front](https://user-images.githubusercontent.com/116358629/211822345-dae9b733-31de-4f01-8241-898713728362.png)
+
 
 ## Projecttiles
 Με βάση το tutorial ο χαρακτήρας επιτίθεται στο εχθρό και όταν τον πετύχει εκείνος πεθαίνει.
